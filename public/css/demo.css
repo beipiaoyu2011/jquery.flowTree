@@ -1,0 +1,102 @@
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background: white;
+        }
+        .flowTree{
+            width: 174px;
+            border: 1px solid #d4d4d4;
+        }
+        .flowItem{
+            height: 60px;
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+        }
+        .circle{
+            display: inline-block;
+            border-radius: 20px;
+            border: 1px solid #434e63;
+            position: absolute;
+            text-align: center;
+            vertical-align: middle;
+        }
+        .circle-inside{
+            display: inline-block;
+            margin-top: 3px;
+        }
+        .circle-active{
+            width: 18px;
+            height: 18px;
+            border-radius: 18px;
+            line-height: 18px;
+            background: #15A4FA;
+            color: #fff;
+        }
+        .circle-active-middle{
+            width: 12px;
+            height: 12px;
+            line-height: 12px;
+            border-radius: 12px;
+            background: #15A4FA;
+            color: #fff;
+        }
+        .circle-over{
+            width: 18px;
+            height: 18px;
+            border-radius: 18px;
+            line-height: 18px;
+            background: #ddd;
+        }
+        .circle-over-middle{
+            width: 12px;
+            height: 12px;
+            border-radius: 12px;
+            line-height: 12px;
+            background: #ddd;
+        }
+        .circle-big{
+            width: 26px;
+            height: 26px;
+            left: 60px;
+        }
+        .circle-middle{
+            width: 18px;
+            height: 18px;
+            line-height: 18px;
+            left: 63px;
+        }
+        .yAxisline{
+            width: 2px;
+            display: inline-block;
+            background: #434e63;
+            position: absolute;
+            left: 72px;
+            bottom: 0;
+        }
+        .yAxisline-big{
+            top: 26px;
+        }
+        .yAxisline-middle{
+            top: 20px;
+        }
+        .stepNumber{
+            position: absolute;
+            left: 6px;
+            top: 4px
+        }
+        .stepTitle{
+            position: absolute;
+            left: 94px;
+            font-size: 12px;
+            text-align: center;
+        }
+        .stepTitle-big{
+            top: 7px;
+        }
+        .stepTitle-middle{
+            top: 4px;
+            left: 100px;
+        }
