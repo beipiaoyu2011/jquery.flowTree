@@ -4,7 +4,7 @@
 
 
 
- **connect me: [master2011zhao@gmail.com](master2011zhao@gmail.com)** 
+ **contact me: [master2011zhao@gmail.com](master2011zhao@gmail.com)** 
 
 > **使用方法**
 
