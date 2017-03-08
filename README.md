@@ -1,6 +1,6 @@
 # jquery.flowTree 自适应可配置
 
-----------
+
 
 
 
@@ -103,4 +103,6 @@
 
 ![](http://i.imgur.com/rYMkbY3.png)
 
-**That is all!** 2017/3/8 9:16:13 
+## License ##
+
+Licensed under the MIT License
