@@ -84,6 +84,12 @@
             }
         }
     });
+	//窗口自适应
+    $(window).resize(function() {
+        var newHeight = $(window).height();
+        flow.resize(newHeight);
+    });
+
 
 > **参数介绍**
 
