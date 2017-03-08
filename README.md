@@ -1,10 +1,7 @@
 # jquery.flowTree 自适应可配置
 
 
-
-
-
- **contact me: [master2011zhao@gmail.com](master2011zhao@gmail.com)** 
+ **CONTACT ME: [master2011zhao@gmail.com](master2011zhao@gmail.com)** 
 
 > **使用方法**
 
